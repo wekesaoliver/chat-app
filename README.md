@@ -89,9 +89,6 @@ This project is licensed under the **MIT License**.
 ## 🙌 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 📞 Contact
-For any inquiries, reach out to: [your-email@example.com](mailto:your-email@example.com)
-
 ---
 
 Enjoy chatting! 🎉
